@@ -122,7 +122,7 @@
     "ajv": "^6.12.6",
     "babel-loader": "^8.2.3",
     "babel-minify-webpack-plugin": "^0.3.1",
-    "cfonts": "^2.9.2",
+    "cfonts": "^2.10.0",
     "chalk": "^2.4.1",
     "chokidar": "^3.5.1",
     "copy-webpack-plugin": "^4.5.1",
