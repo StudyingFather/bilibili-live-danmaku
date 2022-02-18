@@ -99,7 +99,7 @@
     "view-design": "^4.5.0",
     "vue": "^2.6.12",
     "vue-electron": "^1.0.6",
-    "vue-router": "^3.5.1",
+    "vue-router": "^3.5.3",
     "vue-smooth-dnd": "^0.8.1",
     "vuex": "^3.6.2",
     "vuex-electron": "github:usagiring/vuex-electron",
