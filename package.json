@@ -135,7 +135,7 @@
     "electron-debug": "^3.2.0",
     "electron-devtools-installer": "^3.2.0",
     "file-loader": "^6.2.0",
-    "html-webpack-plugin": "^4.5.2",
+    "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "2.5.3",
     "multispinner": "^0.2.1",
     "node-loader": "^2.0.0",
