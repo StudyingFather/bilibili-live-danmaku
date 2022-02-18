@@ -11,4 +11,4 @@ updates:
       interval: "daily"
       time: "00:00"
       timezone: "Asia/Shanghai"
-    open-pull-requests-limit: 0
+    open-pull-requests-limit: 50
