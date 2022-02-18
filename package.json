@@ -138,7 +138,7 @@
     "html-webpack-plugin": "^4.5.2",
     "mini-css-extract-plugin": "1.6.2",
     "multispinner": "^0.2.1",
-    "node-loader": "^1.0.3",
+    "node-loader": "^2.0.0",
     "node-sass": "^7.0.1",
     "sass-loader": "^7.0.3",
     "style-loader": "^3.3.1",
