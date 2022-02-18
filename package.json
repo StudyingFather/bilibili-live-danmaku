@@ -136,7 +136,7 @@
     "electron-devtools-installer": "^3.2.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^4.5.2",
-    "mini-css-extract-plugin": "1.6.2",
+    "mini-css-extract-plugin": "2.5.3",
     "multispinner": "^0.2.1",
     "node-loader": "^1.0.3",
     "node-sass": "^7.0.1",
