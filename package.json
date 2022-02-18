@@ -142,7 +142,7 @@
     "node-sass": "^7.0.1",
     "sass-loader": "^7.0.3",
     "style-loader": "^0.21.0",
-    "terser-webpack-plugin": "^1.4.5",
+    "terser-webpack-plugin": "^4.2.3",
     "url-loader": "^4.1.1",
     "vue-html-loader": "^1.2.4",
     "vue-loader": "^17.0.0",
