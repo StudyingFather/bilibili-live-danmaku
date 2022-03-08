@@ -127,7 +127,7 @@
     "chokidar": "^3.5.3",
     "copy-webpack-plugin": "^10.2.4",
     "cross-env": "^7.0.3",
-    "css-loader": "^6.6.0",
+    "css-loader": "^6.7.1",
     "del": "^6.0.0",
     "devtron": "^1.4.0",
     "electron": "^17.0.1",
