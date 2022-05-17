@@ -103,7 +103,7 @@
     "vue-smooth-dnd": "^0.8.1",
     "vuex": "^4.0.2",
     "vuex-electron": "github:usagiring/vuex-electron",
-    "yaml": "^1.10.2"
+    "yaml": "^2.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
