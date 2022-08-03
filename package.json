@@ -107,7 +107,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
-    "@babel/plugin-proposal-export-default-from": "^7.16.7",
+    "@babel/plugin-proposal-export-default-from": "^7.18.10",
     "@babel/plugin-proposal-export-namespace-from": "^7.16.7",
     "@babel/plugin-proposal-function-bind": "^7.16.7",
     "@babel/plugin-proposal-json-strings": "^7.16.7",
