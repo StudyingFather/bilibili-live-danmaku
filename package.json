@@ -101,7 +101,7 @@
     "vue-electron": "^1.0.6",
     "vue-router": "^4.0.12",
     "vue-smooth-dnd": "^0.8.1",
-    "vuex": "^4.0.2",
+    "vuex": "^4.1.0",
     "vuex-electron": "github:usagiring/vuex-electron",
     "yaml": "^1.10.2"
   },
