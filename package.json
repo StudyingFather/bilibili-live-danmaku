@@ -139,7 +139,7 @@
     "mini-css-extract-plugin": "2.5.3",
     "multispinner": "^0.2.1",
     "node-loader": "^2.0.0",
-    "node-sass": "^7.0.1",
+    "node-sass": "^8.0.0",
     "sass-loader": "^12.6.0",
     "style-loader": "^3.3.1",
     "terser-webpack-plugin": "^5.3.1",
